@@ -13,6 +13,7 @@ h1 {
 h2 {
   font-weight:300;
   font-size:42px;
+  color:white;
 }
 
 a {
@@ -23,4 +24,8 @@ a {
 p {
   color:gray;
   font-size:21px;
+}
+
+#copyright {
+  text-align:right;
 }
